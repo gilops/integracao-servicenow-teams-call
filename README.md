@@ -7,7 +7,7 @@ Integração entre o ServiceNow e o Microsoft Teams para que automaticamente sej
 - Organização ativa no Service Now
 
 ## Estrutura do projeto:
-- integracaoTeams.js: arquivo com o script para integrar o Service Now com o Microsoft Teams
+- IntegracaoTeams.js: arquivo com o script para integrar o Service Now com o Microsoft Teams
 
 ## Variáveis:
 - user = dados de email e nome para cada usuário que vai ser criado, aumentando sucessivamente o número caso seja necessário
